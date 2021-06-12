@@ -2,7 +2,8 @@
 ![ss2m](https://user-images.githubusercontent.com/66847518/121779674-73145500-cbba-11eb-989e-10b37ae52b9f.jpg)
 # bmi_calculator
 
-A new Flutter project.
+A new Flutter project.This project aims to calculate
+users BMI.
 
 ## Getting Started
 
